@@ -22,7 +22,7 @@ pip install tensorflow numpy matplotlib opencv-python
 The dataset should be organized in folders, each representing a class:
 
 ```
-/clothing-dataset-small-master/train, test and validation
+/clothing-dataset/train, test, and validation
   ├── dress/
   ├── hat/
   ├── pants/
