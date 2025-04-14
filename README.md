@@ -45,6 +45,14 @@ The dataset should be organized in folders, each representing a class:
 You can visualize prediction results inside the testing notebook. Images are labeled with predicted classes using OpenCV and matplotlib.
 
 ---
+
+## 📚 Related Research Paper
+
+This project is based on or related to a scientific publication:
+
+🔗 [IEEE Paper: Clothing Image Classification Using VGG19](https://ieeexplore.ieee.org/abstract/document/10639001)
+
+---
 ## 🙌 Author
 
 Created by **Mohammed Hameed**.  
